@@ -1,8 +1,8 @@
-<div align="center">
+
 
 # 💫 About Me:
 
-👋 Hi, I’m Ashwani Maurya<br><br>
+👋 Hi, I’m <strong>Ashwani Maurya</strong><br><br>
 💼 Aspiring Java Full-Stack Developer | Passionate about coding, problem solving & building useful software 💡<br><br>
 🚀 I’m dedicated to learning and improving every day.<br>Here’s a snapshot of what I’m currently up to and skilled in:<br><br>
 
@@ -28,7 +28,7 @@
 👉 Feel free to reach out for collaboration, feedback, or just to say hi! 😊<br><br>
 
 ✨ Thanks for stopping by! 👨‍💻<br><br>
-
+<div align="center">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__ashwanii___)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-kumar-maurya/)

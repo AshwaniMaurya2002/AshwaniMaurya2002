@@ -28,12 +28,12 @@
 👉 Feel free to reach out for collaboration, feedback, or just to say hi! 😊<br><br>
 
 ✨ Thanks for stopping by! 👨‍💻<br><br>
-<div align="center">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__ashwanii___)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-kumar-maurya/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwanikumarmaurya2002@gmail.com) <br><br>
-
+<div align="center">
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

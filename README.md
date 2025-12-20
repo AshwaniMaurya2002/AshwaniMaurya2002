@@ -1,4 +1,5 @@
-# 💫 About Me:
+<center>
+  # 💫 About Me:
 👋 Hi, I’m Ashwani Maurya<br><br>💼 Aspiring Java Full-Stack Developer | Passionate about coding, problem solving & building useful software 💡<br><br>🚀 I’m dedicated to learning and improving every day.<br>Here’s a snapshot of what I’m currently up to and skilled in:<br><br>🧠 Skills & Technologies<br><br>💻 Languages: Java, JavaScript, SQL<br>🛠️ Technologies: Web Development (Frontend & Backend), SQL scripting, Git & GitHub<br>📚 Always exploring new frameworks, tools, and best practices to grow my toolkit<br><br>🌟 What I Love Doing<br><br>🔎 Exploring clean and efficient solutions to real-world problems<br><br>💡 Building projects with meaningful impact<br><br>🤝 Collaborating with other developers and learning together<br><br>💬 Sharing knowledge and engaging in the developer community<br><br>👨‍💻 What You’ll Find on My GitHub<br><br>📁 Well-structured learning projects<br>📌 Code practices and exercises<br>📄 Java & web development repositories<br>📊 SQL scripts and backend work<br>✨ Clear documentation and progress over time<br><br>📫 Let’s Connect<br><br>👉 Feel free to reach out for collaboration, feedback, or just to say hi! 😊<br><br>✨ Thanks for stopping by! 👨‍💻
 
 
@@ -19,3 +20,5 @@
 
 
 ![snake gif](https://github.com/AshwaniMaurya2002/AshwaniMaurya2002/blob/output/github-snake-dark.svg)
+
+</center>

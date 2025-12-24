@@ -65,9 +65,9 @@ Hello Ji ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ## <h1>📊 GitHub Stats: </h1>
 <table>
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=AshwaniMaurya2002&theme=dark&include_all_commits=true" />
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=AshwaniMaurya2002&theme=dark" />
     </td>

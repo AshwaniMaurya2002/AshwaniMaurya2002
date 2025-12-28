@@ -63,22 +63,13 @@ Hello Ji ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 
 ## <h1>📊 GitHub Stats: </h1>
-<table>
-  <tr>
-    <!-- <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AshwaniMaurya2002&theme=dark&include_all_commits=true" />
-    </td> -->
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=AshwaniMaurya2002&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniMaurya2002&theme=dark&layout=compact" />
-    </td>
-  </tr>
- 
-</table>
+![](https://github-readme-stats.vercel.app/api?username=Dsd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dsd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dsd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=AshwaniMaurya2002&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=Dsd&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
